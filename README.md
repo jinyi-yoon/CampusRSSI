@@ -13,7 +13,14 @@ We collect the data in four different in-building places.
 - Medium-Obs (Office): 16 APs over $9.9\times~9.9m^2$, where the room with AP 6 and 15 is enclosed by concrete walls, glass walls enclose other rooms, and the black-colored boxes are the concrete pillars
 - High-Obs (Office): 10 APs over $10.8\times12.0m^2$, where the concrete wall at $x=8.4~m$ divides the hall where the AP 9 is located and glass walls enclose the room area, and all rooms
 
+### Floor Plan
+
 The exact AP locations for each place can be found in the 'ap_loc.csv' files.
+<img width="1082" alt="Image" src="https://github.com/user-attachments/assets/a3ad829b-d137-4066-a49f-f3037b2634bd" />
+
+### RSSI Heatmap
+
+<img width="1082" alt="Image" src="https://github.com/user-attachments/assets/72858805-46fb-482b-8cb9-c1f72b6c186b" />
 
 ## Citation
 
