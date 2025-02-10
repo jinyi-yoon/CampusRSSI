@@ -1,4 +1,4 @@
-# RSSIndoor
+# CampusRSSI
 
 _RSSIndoor_ dataset is the real-world RSSI measurements for indoor localization.
 
@@ -24,7 +24,7 @@ The exact AP locations for each place can be found in the 'ap_loc.csv' files.
 
 ## Citation
 
-If you find RSSIndoor dataset useful for your research and applications, please cite using this BibTeX:
+If you find CampusRSSI dataset useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 @inproceedings{yoon2024ganloc,
   title={GAN-Loc: Empowering Indoor Localization for Unknown Areas via Generative Fingerprint Map},
