@@ -1,6 +1,6 @@
 # CampusRSSI
 
-_RSSIndoor_ dataset is the real-world RSSI measurements for indoor localization.
+_CampusRSSI_ dataset is the real-world RSSI measurements for indoor localization.
 
 ## Methodology
 We deploy the wireless APs of EFM-Networks ipTIME N104Q-i with a single antenna of dBi. It communicates using IEEE 802.11n of 150 Mbpm over 2.4GHz band. To collect the fine-grained data for every $30cm$, we installed tiles with the size of $0.3\times0.3m^2$ on the floor except for AP 12 and 14 in Medium-Obs (Office). We collect the data using our own Android application for RSSI data collection on 26 LG G Pad 3 10.1 (LG-X760) equipped with wi-fi. We keep the position of the devices at the left bottom of the tile. We do not constrain any pedestrians to make the situation realistic.
