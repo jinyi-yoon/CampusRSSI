@@ -1,4 +1,4 @@
-# CampusRSSI
+# CampusRSSI (PerCom25 Artifacts)
 
 _CampusRSSI_ dataset is the real-world RSSI measurements for indoor localization.
 
